@@ -1,0 +1,22 @@
+{
+    "catFactsHistory": [
+      {
+        "type": "fact",
+        "content": "Cat fact 1"
+      },
+      {
+        "type": "image",
+        "content": "<div class=\"card\"><img src=\"https://example.com/cat1.jpg\" alt=\"Cat Image\" /><p>Image Source: https://example.com/cat1.jpg</p></div>"
+      },
+      {
+        "type": "fact",
+        "content": "Cat fact 2"
+      },
+      {
+        "type": "image",
+        "content": "<div class=\"card\"><img src=\"https://example.com/cat2.jpg\" alt=\"Cat Image\" /><p>Image Source: https://example.com/cat2.jpg</p></div>"
+      }
+      
+    ]
+  }
+  
